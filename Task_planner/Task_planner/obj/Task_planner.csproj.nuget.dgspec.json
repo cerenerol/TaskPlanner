@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Task_planner\\Task_planner\\Task_planner.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\TaskPlanner\\Task_planner\\Task_planner\\Task_planner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Task_planner\\Task_planner\\Task_planner.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\TaskPlanner\\Task_planner\\Task_planner\\Task_planner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Task_planner\\Task_planner\\Task_planner.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\TaskPlanner\\Task_planner\\Task_planner\\Task_planner.csproj",
         "projectName": "Task_planner",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Task_planner\\Task_planner\\Task_planner.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\TaskPlanner\\Task_planner\\Task_planner\\Task_planner.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Task_planner\\Task_planner\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\TaskPlanner\\Task_planner\\Task_planner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
